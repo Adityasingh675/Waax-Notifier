@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297336381480",
+    "firebase_url": "https://wax-noti.firebaseio.com",
+    "project_id": "wax-noti",
+    "storage_bucket": "wax-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297336381480:android:ad6e03ead6e3ef4e7bd51d",
+        "android_client_info": {
+          "package_name": "com.example.wax_notifier_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297336381480-cnn4nr74ej3afti3te081jqe4hj9d250.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhSjbXaAAzheuEQw0m3wcc0nGL18VQMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297336381480-cnn4nr74ej3afti3te081jqe4hj9d250.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
